@@ -2,7 +2,7 @@
 package md5crypt
 
 /*
-   Copyright (c) 2013 Damian Gryski <damian@gryski.com>
+   This was file written by Damian Gryski <damian@gryski.com>
 
    Based on the implementation at http://code.activestate.com/recipes/325204-passwd-file-compatible-1-md5-crypt/
 
